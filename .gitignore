@@ -1,0 +1,6 @@
+glfw.zip
+glfw/
+lib/
+include/GLFW/
+src/*.o
+scop
